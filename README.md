@@ -7,6 +7,7 @@ This tool is a results of a POC project. It calculates image vulnerabilities bas
 See yourself:
 
 ![Redis runtime vulnerabilities example](docs/scan.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubescape%2Fsneeffer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubescape%2Fsneeffer?ref=badge_shield)
 
 # More about Sneeffer
 
@@ -173,3 +174,7 @@ Interpreted languages are in general supported as well. Their packages are cover
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubescape%2Fsneeffer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubescape%2Fsneeffer?ref=badge_large)
